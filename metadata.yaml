@@ -1,0 +1,55 @@
+_repo: Roman-History-Books-I-III_10828
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: &id001 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+  - agent_name: Brodribb, William Jackson
+    birthdate: *id001
+    deathdate: 1905
+    gutenberg_agent_id: '37626'
+    url: http://www.gutenberg.org/2009/agents/37626
+  - agent_name: Freese, John Henry
+    alias: Freese, J. H. (John Henry)
+    gutenberg_agent_id: '37625'
+    url: http://www.gutenberg.org/2009/agents/37625
+creator:
+  author:
+    agent_name: Livy
+    alias: Livius, Titus
+    gutenberg_agent_id: '3707'
+    url: http://www.gutenberg.org/2009/agents/3707
+    wikipedia: http://en.wikipedia.org/wiki/Livy
+  editor:
+    agent_name: Osborne, Duffield
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '9164'
+    url: http://www.gutenberg.org/2009/agents/9164
+    wikipedia: http://en.wikipedia.org/wiki/Duffield_Osborne
+description: Titus Livius, often known as Livy in English, was a Roman historian who
+  wrote a monumental history of Rome, Ab Urbe Condita, from its founding (traditionally
+  dated to 753 BC) through the reign of Augustus in Livy's own time. Livy's writing
+  style was poetic and archaic in contrast to Julius Caesar's and Cicero's styles.
+  Also, he often wrote from the Romans' opponent's point of view in order to accent
+  the Romans' virtues in their conquest of Italy and the Mediterranean. In keeping
+  with his poetic tendencies, he did little to distinguish between fact and fiction
+  ...
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: Roman History, Books I-III
+url: http://www.gutenberg.org/ebooks/10828
