@@ -1,15 +1,15 @@
 _repo: Roman-History-Books-I-III_10828
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Church, Alfred John
     alias: Church, Alfred J.
-    birthdate: &id001 1829
+    birthdate: 1829
     deathdate: 1912
     gutenberg_agent_id: '2020'
     url: http://www.gutenberg.org/2009/agents/2020
   - agent_name: Brodribb, William Jackson
-    birthdate: *id001
+    birthdate: 1829
     deathdate: 1905
     gutenberg_agent_id: '37626'
     url: http://www.gutenberg.org/2009/agents/37626
@@ -17,6 +17,9 @@ contributor:
     alias: Freese, J. H. (John Henry)
     gutenberg_agent_id: '37625'
     url: http://www.gutenberg.org/2009/agents/37625
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Livy
@@ -39,6 +42,8 @@ description: Titus Livius, often known as Livy in English, was a Roman historian
   the Romans' virtues in their conquest of Italy and the Mediterranean. In keeping
   with his poetic tendencies, he did little to distinguish between fact and fiction
   ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10828#Roman-History-Books-I-III
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
